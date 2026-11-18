@@ -5,6 +5,9 @@
 [hidden]{display:none!important}
 .product-search,.filter-search input,.report-nav input{width:100%;border:1px solid #d4ded5;border-radius:9px;padding:10px 12px;background:#fff;color:var(--ink);font:inherit;font-size:.86rem}
 .product-search{margin-bottom:12px}
+.item-note{display:block;width:100%;margin:0 0 9px;padding:8px 10px;border:1px solid #d4ded5;border-radius:8px;background:#fff;color:var(--ink);font:inherit;font-size:.78rem}
+.order-item-note{display:block;color:var(--muted);font-size:.76rem}
+.danger-button{color:#97372e}
 .search-empty{margin:0 0 12px}
 .product-row.row-selected{background:var(--mint);margin:0 -8px;padding-left:8px;padding-right:8px;border-radius:8px}
 .live-total{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:14px;padding:12px 14px;border-radius:10px;background:#f7faf7;border:1px dashed #d8e2d9;font-size:.82rem;color:var(--muted)}

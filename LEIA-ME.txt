@@ -5,9 +5,9 @@ FUNCIONALIDADES
 - Data/hora de abertura e de entrega.
 - Seleção de produtos, quantidades e preços predefinidos.
 - Total calculado por comanda.
-- Observação da cozinha, editável enquanto a comanda está aberta.
+- Observação da cozinha, editável enquanto a comanda está aberta, e observações opcionais por item.
 - Marcação como entregue.
-- Cadastro, edição, ativação e desativação de produtos.
+- Cadastro, edição, ativação, desativação e exclusão de produtos (preservando o histórico das comandas).
 - Dez produtos de exemplo incluídos no SQL.
 - PDO, consultas preparadas e escape de saída HTML.
 - Total do pedido calculado ao vivo e busca de produtos ao abrir a comanda.
